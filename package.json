@@ -4,7 +4,7 @@
   "description": "url shortner for genz",
   "license": "ISC",
   "author": "",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "npm run dev"
